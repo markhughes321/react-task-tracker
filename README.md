@@ -1,4 +1,4 @@
-# React Crash Course 2021 (Task Tracker App)
+# React Task Tracker App
 
 <p align="center"><img src="https://github.com/markhughes321/react-task-tracker/blob/development-branch/public/img/demo-app.gif" /></p>
 
