@@ -1,10 +1,8 @@
 # React Crash Course 2021 (Task Tracker App)
 
-<p align="center"> 
-<img alt="gif" src="https://github.com/markhughes321/react-task-tracker/blob/development-branch/public/img/demo.gif" />
-</p>
+<p align="center"><img alt="gif" src="https://github.com/markhughes321/react-task-tracker/blob/development-branch/public/img/demo.gif" /></p>
 
-This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
+This project includes React-UI as well as JSON-server for our mock backend.
 
 ## Usage
 
@@ -20,7 +18,7 @@ npm install
 npm start
 ```
 
-### Run the JSON server (http://localhost:5000)
+### Run the JSON server (http://localhost:5001)
 
 ```
 npm run server
