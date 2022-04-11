@@ -1,6 +1,6 @@
 # React Crash Course 2021 (Task Tracker App)
 
-<p><img align="center" width="500" height="320" src="https://github.com/markhughes321/react-task-tracker/blob/development-branch/public/img/demo.gif" /></p>
+<p><img align-content="center" width="500" height="320" src="https://github.com/markhughes321/react-task-tracker/blob/development-branch/public/img/demo.gif" /></p>
 
 This is the project from the [YouTube crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8). It includes the react ui as well as JSON-server for our mock backend
 
